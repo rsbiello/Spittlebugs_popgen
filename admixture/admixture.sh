@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # ADMIXTURE
-source /path/to/software/admixture-1.3.0
+source package /path/to/software/admixture-1.3.0
 
 # Parameters
 OUT=dataset.filtered
