@@ -4,8 +4,8 @@
 source /path/to/software/admixture-1.3.0
 
 # Parameters
-OUT=example_dataset.filtered
-BED=./input/example_dataset.filtered.bed
+OUT=dataset.filtered
+BED=dataset.filtered.bed
 THREADS=16
 REPS=20
 
